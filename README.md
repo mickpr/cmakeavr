@@ -1,4 +1,4 @@
-# cmakeavr - an example (template) for AVR compile using CMake & MinGW toolchain under Windows
-Works :) modify files & run bat to test
+# cmakeavr - an example (template) for AVR using CMake & MinGW toolchain under Windows
+Works :) modify files & run bat file to test it. 
 
 
